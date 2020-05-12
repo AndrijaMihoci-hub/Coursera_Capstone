@@ -6,4 +6,5 @@ Popular notebooks
 
 01 Importing Python libraries and displaying information
 
+02 Segmentation and clustering of Toronto neighborhood data
 
